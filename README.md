@@ -11,5 +11,5 @@ pip install -r requirements.txt
 ## Run
 
 ```
-bash exec_iemocap.sh
+bash run.sh
 ```
