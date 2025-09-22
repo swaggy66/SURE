@@ -1,6 +1,6 @@
 # SURE
 
-We will release the details coming soon!
+This repository is the implementation for SURE. We will release the details coming soon!
 
 ## Install
 
