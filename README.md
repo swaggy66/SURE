@@ -1,6 +1,6 @@
 # SURE
 
-This repository is the implementation for SURE. We will release the details coming soon!
+This repository is the implementation for the paper: SURE: SYNERGISTIC UNCERTAINTY-AWARE REASONING FOR MULTIMODAL EMOTION RECOGNITION IN CONVERSATIONS
 
 ## Install
 
